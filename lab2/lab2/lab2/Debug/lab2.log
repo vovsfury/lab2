@@ -1,0 +1,17 @@
+﻿  lab2.cpp
+C:\Users\vovsf\OneDrive\Desktop\4 сем\аисд\lab2\lab2\lab2\rbtree.h(464,31): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\vovsf\OneDrive\Desktop\4 сем\аисд\lab2\lab2\lab2\list.h(75,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vovsf\OneDrive\Desktop\4 сем\аисд\lab2\lab2\lab2\list.h(77,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vovsf\OneDrive\Desktop\4 сем\аисд\lab2\lab2\lab2\list.h(214,25): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\vovsf\OneDrive\Desktop\4 сем\аисд\lab2\lab2\lab2\list.h(233,25): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\vovsf\OneDrive\Desktop\4 сем\аисд\lab2\lab2\lab2\list.h(234,24): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\vovsf\OneDrive\Desktop\4 сем\аисд\lab2\lab2\lab2\list.h(246,24): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\vovsf\OneDrive\Desktop\4 сем\аисд\lab2\lab2\lab2\lab2.cpp(29,27): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\vovsf\OneDrive\Desktop\4 сем\аисд\lab2\lab2\lab2\lab2.cpp(36,31): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\vovsf\OneDrive\Desktop\4 сем\аисд\lab2\lab2\lab2\lab2.cpp(168,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vovsf\OneDrive\Desktop\4 сем\аисд\lab2\lab2\lab2\lab2.cpp(180,31): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\vovsf\OneDrive\Desktop\4 сем\аисд\lab2\lab2\lab2\lab2.cpp(189,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vovsf\OneDrive\Desktop\4 сем\аисд\lab2\lab2\lab2\lab2.cpp(197,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vovsf\OneDrive\Desktop\4 сем\аисд\lab2\lab2\lab2\lab2.cpp(220,27): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\vovsf\OneDrive\Desktop\4 сем\аисд\lab2\lab2\lab2\rbtree.h(422): warning C4715: rbtree::getNode: значение возвращается не при всех путях выполнения
+  lab2.vcxproj -> C:\Users\vovsf\OneDrive\Desktop\4 сем\аисд\lab2\lab2\Debug\lab2.exe
